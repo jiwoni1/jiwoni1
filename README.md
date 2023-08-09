@@ -1,5 +1,6 @@
-# 지원's Profile 
+# My Profile
+---------------
 
-## Hi ~ Welcome to developer kirby ![Alt text](image.png)
-## plz support me !! Thx   ♡+◟(● ̇▾ ̇●)◞+♡ 
+- 현재 `Python` 공부중
+- Dream : Algorithm master
 
