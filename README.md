@@ -4,8 +4,16 @@
 
 <br>
 
+<div align="center">
+<!-- 💖 안녕하세요 ! SSAFY 10기 유지원입니다 💖
+  <br>
+빠르게 익히고 적용할 수 있는 Frontend 개발자가 되기위해 공부중입니다. -->
+</div>
+
+<br>
+
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">💎 Tech Stack 💎</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -58,7 +66,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[https://velog.io/@oka1313](https://velog.io/@jiwoni1/posts)">
+  <a href="https://velog.io/@jiwoni1/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:yjw16014@gmail.com">
