@@ -1,14 +1,19 @@
 <div align="center">
-  <img src="https://github.com/jiwoni1/jiwoni1/blob/master/github_title.png" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Funnel+Sans&weight=800&size=45&pause=2000&color=F7F7F7&background=000000&center=true&vCenter=true&width=1100&height=120&lines=%F0%9F%AB%A7+Thank+you+for+visiting+Jiwon's+github%F0%9F%AB%A7" alt="Typing SVG" /></a>
 </div>
+
+
 
 <br>
 
-<h4 align="center">
-💖 안녕하세요 ! SSAFY 10기 수료생 유지원입니다 💖
-  <br>
-빠르게 학습하여 적용하는 Frontend 개발자가 되기위해 공부중입니다.
-
+<h3 align="center">
+  긍정적인 영향력으로 함께 성장하는 개발자, 유지원입니다.
+</h3>
+<div align="center">
+  - 동료들과의 협업을 통해 더 큰 성장을 이루기 위해 프레임워크, 알고리즘, CS 스터디에 적극 참여하며 효율적인 학습을 이어가고 있습니다.  
+  <br/>
+  - 팀의 성과를 높이고 긍정적인 영향을 주기 위해 격려하고, 팀워크 향상에 기여하고자 노력합니다.
+</div>
 <br>
 <br>
 
@@ -33,7 +38,6 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
 </div>
 
 
@@ -69,7 +73,7 @@
   <a href="https://velog.io/@jiwoni1/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:yjw16014@gmail.com">
+  <a href="mailto:yjw5602@naver.com.com">
     <img
       src="https://img.shields.io/badge/yjw16014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
